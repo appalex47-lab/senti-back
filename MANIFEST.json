@@ -1,8 +1,0 @@
-{
-  "name": "sentia-intelligence-from-conversations-api",
-  "version": "0.3.39",
-  "type": "python-https-backend",
-  "frontend_repository": "sentia-intelligence-from-conversations",
-  "health": "/api/health",
-  "cohere_models": "/api/cohere/models"
-}
